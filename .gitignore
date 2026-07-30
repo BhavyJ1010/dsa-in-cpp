@@ -1,0 +1,12 @@
+.vscode/
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+
+x64/
+Debug/
+Release/
+
+*.log
